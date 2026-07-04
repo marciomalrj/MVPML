@@ -103,3 +103,5 @@ O melhor modelo foi a **Random Forest**, apresentando o maior F1-score ponderado
 Márcio Miranda
 
 Projeto desenvolvido como MVP para a disciplina de Machine Learning da Pós-Graduação em Ciência de Dados.
+
+Acessar Projeto: 'https://colab.research.google.com/github/marciomalrj/MVPML/blob/main/MVP_Machine_Learning.ipynb'
