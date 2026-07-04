@@ -104,4 +104,4 @@ Márcio Miranda
 
 Projeto desenvolvido como MVP para a disciplina de Machine Learning da Pós-Graduação em Ciência de Dados.
 
-Acessar Projeto: <kbd>Abrir no Colab (https://colab.research.google.com/github/marciomalrj/MVPML/blob/main/MVP_Machine_Learning.ipynb\)</kbd>
+Acessar Projeto: <kbd>Abrir no Colab (https://colab.research.google.com/github/marciomalrj/MVPML/blob/main/MVP_Machine_Learning.ipynb)</kbd>
